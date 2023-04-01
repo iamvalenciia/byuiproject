@@ -56,6 +56,7 @@ password: byuiproject
 ```
 
 # Images
+(./images-github/example1.png)
 <a href="./images-github/example1.png"></a>
 <a href="./images-github/example2.png"></a>
 <a href="./images-github/example2.1.png"></a>
