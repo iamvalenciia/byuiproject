@@ -57,6 +57,10 @@ password: byuiproject
 
 # Images
 (./images-github/example1.png)
+![My Image](./images-github/example1.png)
+
+![My Image](./images-github/example1.png)
+![alt text](https://github.com/iamvalenciia/byuiproject/edit/main/images-github/example1.png?raw=true)
 <a href="./images-github/example1.png"></a>
 <a href="./images-github/example2.png"></a>
 <a href="./images-github/example2.1.png"></a>
